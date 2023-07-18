@@ -87,7 +87,7 @@ class Snake :
             
     
     def speed_change (self) :
-        self.snake_speed += 0
+        self.snake_speed += 2
     
     def add_segment(self) :
         self.length += 1
